@@ -1,2 +1,2 @@
-# VFT-Query-bot
-ye
+# VFT Query bot
+mmhmm
